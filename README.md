@@ -10,7 +10,7 @@
   encryption used to secure the internet.
 
 => installation 
-  git clone https://github.com/techSubhash/HeartBleed2.git
+  git clone https://github.com/techsubhash/HeartBleed2.git
   cd HeartBleed
   chmod +x *
   ./install.sh
